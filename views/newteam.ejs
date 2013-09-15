@@ -1,0 +1,14 @@
+<% include layout %>
+<body>
+<div id="logo"><h1>creation des teams</h1>
+<div id="page" class="container">
+<form action='/ajoutteam' method='post'>
+<div><label>Code Team: </label><input type='text' name='code'/><br/></div>
+<div><label>Nom  Team: </label><input type='text' name='nom'/><br/></div>
+<div><label>Lieu Team: </label><input type='text' name='lieu'/><br/></div>
+<div><input type='submit' value='Ajouter'/></div>
+</form>
+</div>
+<hr><a href='/team'>Retour</a>
+</div>
+<% include bottom %>

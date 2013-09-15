@@ -1,0 +1,16 @@
+<% include layout %>
+<body>
+<div id="logo"><h1>modification d'un team</h1>
+<div id="page" class="container">
+<form action='/modifteam' method='post'>
+<div><input type='hidden' name='rang' value='<%=rang%>'/><br/></div>
+<div><label>Code Team: <%=team.code%></label><br/></div>
+<div><input type='hidden' name='code' value='<%=team.code%>'/><br/></div>
+<div><label>Nom  Team: </label><input type='text' name='nom' value='<%=team.nom%>'/><br/></div>
+<div><label>Lieu Team: </label><input type='text' name='lieu' value='<%=team.lieu%>'/><br/></div>
+<div><input type='submit' value='Modifier'/></div>
+</form>
+</div>
+<hr><a href='/team'>Retour</a>
+</div>
+<% include bottom %>

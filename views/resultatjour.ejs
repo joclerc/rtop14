@@ -1,0 +1,61 @@
+<% include layout %>
+<body>
+<div id="logo"><h1>liste des journees de matchs</h1>
+<script type="text/javascript">
+
+function chgDay() {
+	var jour = document.getElementById("jours");
+	var texte=jour.options[jour.selectedIndex].id;
+	refreshListe(texte)
+	//alert(texte);
+	//document.newday.action = jour.options[jour.selectedIndex].id;
+}
+</script>
+
+<div id="page" class="container">
+<p><select onchange="chgDay(options)" id="jours" name='jours'>
+	<% var liste = lesdates["key"]%>
+	<% for(var i=0;i<liste.length;i++) {%>
+		<option id="<%= liste[i] %>", value="<%= liste[i] %>" 
+			<% if (day==liste[i]) {%> selected="selected" <% } %>
+		><%= lesdates[liste[i]][1] %></option>
+	<% } %>
+</select></p>
+
+<script type="text/javascript">
+function refreshListe(jour) {
+	//alert(jour);
+	window.location.href="/resultatjour/refresh/"+jour;
+}
+</script>
+
+<center><table class="sortable">
+<tr><th>Team</th><th>Pts</th><th>bo</th><th>bd</th><th>J</th><th>P</th><th>C</th>
+	<th>G</th><th>N</th><th>P</th>
+	<th>Es</th><th>Dr</th><th>Tr</th><th>Pe</th><th>Dif</th>
+</tr>
+<% for(var i=0; i<listeres.length; i++) {%>
+	<% var res=listeres[i]%>
+	<tr><td><%=res.team %></td>
+		<td><%=res.pts %></td>
+		<td><%=res.bo %></td>
+		<td><%=res.bd %></td>
+		<td><%=res.nbMatch %></td>
+		<td><%=res.pour %></td>
+		<td><%=res.contre %></td>
+		<td><%=res.gagne %></td>
+		<td><%=res.neutre %></td>
+		<td><%=res.perd %></td>
+		<td><%=res.nbEssai %></td>
+		<td><%=res.nbDrop %></td>
+		<td><%=res.nbTransf %></td>
+		<td><%=res.nbPenalite %></td>
+		<td><%=res.dif %></td>
+		</tr>
+<% } %>	
+</table></center>
+liste: <%=listeres.length%>
+</div>
+<hr><a href='/' style="color: #00B7FF">Retour</a>
+</div>
+<% include bottom %>

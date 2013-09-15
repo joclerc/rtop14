@@ -1,0 +1,72 @@
+[
+    {
+        "code": "AB",
+        "nom": "Aviron Bayonnais",
+        "lieu": "Bayonne"
+    },
+    {
+        "code": "UBB",
+        "nom": "Union Bordeaux-Begles",
+        "lieu": "Bordeaux"
+    },
+    {
+        "code": "RM92",
+        "nom": "Racing Metro 92",
+        "lieu": "Paris92"
+    },
+    {
+        "code": "ASM",
+        "nom": "ASM Clermont-Ferrand",
+        "lieu": "Clermont"
+    },
+    {
+        "code": "USAP",
+        "nom": "Perpignan",
+        "lieu": "Perpignan"
+    },
+    {
+        "code": "FCG",
+        "nom": "Grenoble",
+        "lieu": "Grenoble"
+    },
+    {
+        "code": "MHR",
+        "nom": "Montpellier-Herault Rugby",
+        "lieu": "Montpellier"
+    },
+    {
+        "code": "RCT",
+        "nom": "Rugby Club Toulonnais",
+        "lieu": "Toulon"
+    },
+    {
+        "code": "SF",
+        "nom": "Stade Francais",
+        "lieu": "Paris75"
+    },
+    {
+        "code": "CO",
+        "nom": "Castres Olympique",
+        "lieu": "Castres"
+    },
+    {
+        "code": "BOPB",
+        "nom": "Biarritz Olympique",
+        "lieu": "Biarritz"
+    },
+    {
+        "code": "CABCL",
+        "nom": "CA Brive-Correze",
+        "lieu": "Brive"
+    },
+    {
+        "code": "ST",
+        "nom": "Stade Toulousain",
+        "lieu": "Toulouse"
+    },
+    {
+        "code": "USO",
+        "nom": "US Oyonnax",
+        "lieu": "Oyonnax"
+    }
+]

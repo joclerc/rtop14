@@ -1,0 +1,2921 @@
+{
+    "J1,USAP": [
+        {
+            "temps": "17",
+            "pts": "P",
+            "joueur": " James Hook"
+        },
+        {
+            "temps": "25",
+            "pts": "D",
+            "joueur": "Camille Lopez"
+        },
+        {
+            "temps": "27",
+            "pts": "E",
+            "joueur": "Sofiane Guitoune"
+        },
+        {
+            "temps": "27",
+            "pts": "T",
+            "joueur": " James Hook"
+        },
+        {
+            "temps": "46",
+            "pts": "P",
+            "joueur": " James Hook"
+        },
+        {
+            "temps": "52",
+            "pts": "P",
+            "joueur": " James Hook"
+        },
+        {
+            "temps": "77",
+            "pts": "E",
+            "joueur": "Camille Lopez"
+        },
+        {
+            "temps": "78",
+            "pts": "T",
+            "joueur": " James Hook"
+        }
+    ],
+    "J1,CO": [
+        {
+            "temps": "3",
+            "pts": "E",
+            "joueur": "Marcel Garvey"
+        },
+        {
+            "temps": "4",
+            "pts": "T",
+            "joueur": "Rory Kockott"
+        },
+        {
+            "temps": "10",
+            "pts": "P",
+            "joueur": "Rory Kockott"
+        },
+        {
+            "temps": "32",
+            "pts": "P",
+            "joueur": "Rory Kockott"
+        },
+        {
+            "temps": "54",
+            "pts": "P",
+            "joueur": "Rory Kockott"
+        },
+        {
+            "temps": "59",
+            "pts": "E",
+            "joueur": "Piula Faasalele"
+        },
+        {
+            "temps": "59",
+            "pts": "T",
+            "joueur": "Rory Kockott"
+        }
+    ],
+    "J1,AB": [
+        {
+            "temps": "5",
+            "pts": "P",
+            "joueur": "Martin Bustos Moyano"
+        },
+        {
+            "temps": "13",
+            "pts": "P",
+            "joueur": "Martin Bustos Moyano"
+        },
+        {
+            "temps": "14",
+            "pts": "E",
+            "joueur": "Josevata Rokocoko"
+        },
+        {
+            "temps": "15",
+            "pts": "T",
+            "joueur": "Martin Bustos Moyano"
+        },
+        {
+            "temps": "23",
+            "pts": "P",
+            "joueur": "Martin Bustos Moyano"
+        },
+        {
+            "temps": "29",
+            "pts": "P",
+            "joueur": "Martin Bustos Moyano"
+        },
+        {
+            "temps": "31",
+            "pts": "P",
+            "joueur": "Martin Bustos Moyano"
+        },
+        {
+            "temps": "53",
+            "pts": "E",
+            "joueur": "Gabiriele Lovobalavu"
+        },
+        {
+            "temps": "54",
+            "pts": "T",
+            "joueur": "Martin Bustos Moyano"
+        },
+        {
+            "temps": "78",
+            "pts": "E",
+            "joueur": "Opeti Fonua"
+        },
+        {
+            "temps": "79",
+            "pts": "E",
+            "joueur": "Guillaume Rouet"
+        }
+    ],
+    "J1,USO": [
+        {
+            "temps": "7",
+            "pts": "P",
+            "joueur": "Benjamin Urdapilleta"
+        },
+        {
+            "temps": "18",
+            "pts": "P",
+            "joueur": "Benjamin Urdapilleta"
+        },
+        {
+            "temps": "43",
+            "pts": "E",
+            "joueur": "Jean-Franþois Coux"
+        }
+    ],
+    "J1,UBB": [
+        {
+            "temps": "25",
+            "pts": "P",
+            "joueur": "Pierre Bernard"
+        },
+        {
+            "temps": "29",
+            "pts": "P",
+            "joueur": "Pierre Bernard"
+        },
+        {
+            "temps": "32",
+            "pts": "E",
+            "joueur": "Matuisela Talebula"
+        },
+        {
+            "temps": "32",
+            "pts": "T",
+            "joueur": "Pierre Bernard"
+        },
+        {
+            "temps": "40",
+            "pts": "P",
+            "joueur": "Pierre Bernard"
+        },
+        {
+            "temps": "45",
+            "pts": "P",
+            "joueur": "Pierre Bernard"
+        },
+        {
+            "temps": "56",
+            "pts": "P",
+            "joueur": "Pierre Bernard"
+        },
+        {
+            "temps": "68",
+            "pts": "P",
+            "joueur": "Pierre Bernard"
+        },
+        {
+            "temps": "74",
+            "pts": "P",
+            "joueur": "Pierre Bernard"
+        },
+        {
+            "temps": "79",
+            "pts": "P",
+            "joueur": "Pierre Bernard"
+        }
+    ],
+    "J1,ST": [
+        {
+            "temps": "8",
+            "pts": "P",
+            "joueur": "Lionel Beauxis"
+        },
+        {
+            "temps": "12",
+            "pts": "P",
+            "joueur": "Lionel Beauxis"
+        },
+        {
+            "temps": "19",
+            "pts": "P",
+            "joueur": "Lionel Beauxis"
+        },
+        {
+            "temps": "39",
+            "pts": "P",
+            "joueur": "Lionel Beauxis"
+        },
+        {
+            "temps": "43",
+            "pts": "P",
+            "joueur": "Luke McAlister"
+        },
+        {
+            "temps": "61",
+            "pts": "P",
+            "joueur": "Luke McAlister"
+        },
+        {
+            "temps": "67",
+            "pts": "E",
+            "joueur": "Hosea Gear"
+        },
+        {
+            "temps": "67",
+            "pts": "T",
+            "joueur": "Luke McAlister"
+        }
+    ],
+    "J1,FCG": [
+        {
+            "temps": "20",
+            "pts": "P",
+            "joueur": "Valentin Courrent"
+        },
+        {
+            "temps": "28",
+            "pts": "P",
+            "joueur": "Valentin Courrent"
+        },
+        {
+            "temps": "45",
+            "pts": "P",
+            "joueur": "Valentin Courrent"
+        },
+        {
+            "temps": "46",
+            "pts": "E",
+            "joueur": "Anthony Hegarty"
+        },
+        {
+            "temps": "47",
+            "pts": "T",
+            "joueur": "Valentin Courrent"
+        },
+        {
+            "temps": "68",
+            "pts": "P",
+            "joueur": "Valentin Courrent"
+        }
+    ],
+    "J1,SF": [
+        {
+            "temps": "10",
+            "pts": "P",
+            "joueur": "Julien Dupuy"
+        },
+        {
+            "temps": "18",
+            "pts": "P",
+            "joueur": "Julien Dupuy"
+        },
+        {
+            "temps": "30",
+            "pts": "P",
+            "joueur": "Julien Dupuy"
+        },
+        {
+            "temps": "57",
+            "pts": "E",
+            "joueur": "Julien Arias"
+        },
+        {
+            "temps": "61",
+            "pts": "T",
+            "joueur": "Julien Dupuy"
+        }
+    ],
+    "J1,RM92": [
+        {
+            "temps": "10",
+            "pts": "E",
+            "joueur": "Benjamin Lapeyre"
+        },
+        {
+            "temps": "11",
+            "pts": "T",
+            "joueur": "Jonathan Sexton"
+        },
+        {
+            "temps": "22",
+            "pts": "P",
+            "joueur": "Jonathan Sexton"
+        },
+        {
+            "temps": "49",
+            "pts": "P",
+            "joueur": "Jonathan Sexton"
+        },
+        {
+            "temps": "62",
+            "pts": "P",
+            "joueur": "Jonathan Wisniewski"
+        },
+        {
+            "temps": "72",
+            "pts": "P",
+            "joueur": "Jonathan Wisniewski"
+        }
+    ],
+    "J1,CABCL": [
+        {
+            "temps": "14",
+            "pts": "E",
+            "joueur": "Malakai Bakaniceva"
+        },
+        {
+            "temps": "45",
+            "pts": "P",
+            "joueur": "GaÙtan Germain"
+        },
+        {
+            "temps": "57",
+            "pts": "P",
+            "joueur": "GaÙtan Germain"
+        },
+        {
+            "temps": "76",
+            "pts": "D",
+            "joueur": "Laurent Ferreres"
+        }
+    ],
+    "J1,BOPB": [
+        {
+            "temps": "24",
+            "pts": "P",
+            "joueur": "Dimitri Yachvili"
+        },
+        {
+            "temps": "38",
+            "pts": "D",
+            "joueur": "Daniel Waenga"
+        },
+        {
+            "temps": "58",
+            "pts": "E",
+            "joueur": "Dimitri Yachvili"
+        },
+        {
+            "temps": "78",
+            "pts": "E",
+            "joueur": "Teddy Thomas"
+        },
+        {
+            "temps": "79",
+            "pts": "T",
+            "joueur": "Dimitri Yachvili"
+        }
+    ],
+    "J1,ASM": [
+        {
+            "temps": "2",
+            "pts": "P",
+            "joueur": "Brock James"
+        },
+        {
+            "temps": "11",
+            "pts": "P",
+            "joueur": "Brock James"
+        },
+        {
+            "temps": "20",
+            "pts": "E",
+            "joueur": "Regan King"
+        },
+        {
+            "temps": "20",
+            "pts": "T",
+            "joueur": "Brock James"
+        },
+        {
+            "temps": "34",
+            "pts": "P",
+            "joueur": "Brock James"
+        },
+        {
+            "temps": "61",
+            "pts": "P",
+            "joueur": "Brock James"
+        },
+        {
+            "temps": "70",
+            "pts": "P",
+            "joueur": "Brock James"
+        }
+    ],
+    "J1,MHR": [
+        {
+            "temps": "3",
+            "pts": "E",
+            "joueur": "Yoan Audrin"
+        },
+        {
+            "temps": "5",
+            "pts": "T",
+            "joueur": "Jonathan PelissiÚ"
+        },
+        {
+            "temps": "23",
+            "pts": "P",
+            "joueur": "Jonathan PelissiÚ"
+        },
+        {
+            "temps": "30",
+            "pts": "P",
+            "joueur": "Jonathan PelissiÚ"
+        },
+        {
+            "temps": "52",
+            "pts": "D",
+            "joueur": "Franþois Trinh-Duc"
+        },
+        {
+            "temps": "60",
+            "pts": "P",
+            "joueur": "Benoit Paillaugue"
+        },
+        {
+            "temps": "68",
+            "pts": "P",
+            "joueur": "Benoit Paillaugue"
+        }
+    ],
+    "J1,RCT": [
+        {
+            "temps": "27",
+            "pts": "P",
+            "joueur": "Jonny Wilkinson"
+        },
+        {
+            "temps": "42",
+            "pts": "P",
+            "joueur": "Jonny Wilkinson"
+        },
+        {
+            "temps": "39",
+            "pts": "P",
+            "joueur": "Jonny Wilkinson"
+        },
+        {
+            "temps": "54",
+            "pts": "P",
+            "joueur": "Jonny Wilkinson"
+        },
+        {
+            "temps": "70",
+            "pts": "P",
+            "joueur": "Jonny Wilkinson"
+        },
+        {
+            "temps": "71",
+            "pts": "E",
+            "joueur": "Maxime Mermoz"
+        },
+        {
+            "temps": "72",
+            "pts": "T",
+            "joueur": "Jonny Wilkinson"
+        }
+    ],
+    "J2,CABCL": [
+        {
+            "temps": "10",
+            "pts": "P",
+            "joueur": "GaÙtan Germain"
+        },
+        {
+            "temps": "14",
+            "pts": "P",
+            "joueur": "GaÙtan Germain"
+        },
+        {
+            "temps": "21",
+            "pts": "P",
+            "joueur": "GaÙtan Germain"
+        },
+        {
+            "temps": "22",
+            "pts": "P",
+            "joueur": "GaÙtan Germain"
+        },
+        {
+            "temps": "39",
+            "pts": "P",
+            "joueur": "GaÙtan Germain"
+        },
+        {
+            "temps": "44",
+            "pts": "P",
+            "joueur": "GaÙtan Germain"
+        },
+        {
+            "temps": "64",
+            "pts": "E",
+            "joueur": "Sisa Koyamaibole"
+        },
+        {
+            "temps": "64",
+            "pts": "T",
+            "joueur": "GaÙtan Germain"
+        }
+    ],
+    "J2,UBB": [
+        {
+            "temps": "12",
+            "pts": "P",
+            "joueur": "Pierre Bernard"
+        },
+        {
+            "temps": "33",
+            "pts": "P",
+            "joueur": "Pierre Bernard"
+        },
+        {
+            "temps": "48",
+            "pts": "P",
+            "joueur": "Pierre Bernard"
+        },
+        {
+            "temps": "57",
+            "pts": "P",
+            "joueur": "Pierre Bernard"
+        }
+    ],
+    "J2,BOPB": [
+        {
+            "temps": "24",
+            "pts": "P",
+            "joueur": "Dimitri Yachvili"
+        },
+        {
+            "temps": "42",
+            "pts": "E",
+            "joueur": "Charles Gimenez"
+        },
+        {
+            "temps": "43",
+            "pts": "T",
+            "joueur": "Dimitri Yachvili"
+        },
+        {
+            "temps": "53",
+            "pts": "P",
+            "joueur": "Dimitri Yachvili"
+        },
+        {
+            "temps": "59",
+            "pts": "P",
+            "joueur": "Dimitri Yachvili"
+        },
+        {
+            "temps": "80",
+            "pts": "P",
+            "joueur": "Dimitri Yachvili"
+        }
+    ],
+    "J2,MHR": [
+        {
+            "temps": "8",
+            "pts": "P",
+            "joueur": "Jonathan PelissiÚ"
+        },
+        {
+            "temps": "32",
+            "pts": "P",
+            "joueur": "Jonathan PelissiÚ"
+        },
+        {
+            "temps": "57",
+            "pts": "P",
+            "joueur": "Jonathan PelissiÚ"
+        },
+        {
+            "temps": "64",
+            "pts": "P",
+            "joueur": "Jonathan PelissiÚ"
+        }
+    ],
+    "J2,CO": [
+        {
+            "temps": "3",
+            "pts": "E",
+            "joueur": "Ibrahim Diarra"
+        },
+        {
+            "temps": "4",
+            "pts": "T",
+            "joueur": "Rory Kockott"
+        },
+        {
+            "temps": "11",
+            "pts": "E",
+            "joueur": "RÚmi Lamerat"
+        },
+        {
+            "temps": "28",
+            "pts": "P",
+            "joueur": "Rory Kockott"
+        },
+        {
+            "temps": "43",
+            "pts": "E",
+            "joueur": "Antonie Claasen"
+        },
+        {
+            "temps": "44",
+            "pts": "T",
+            "joueur": "Rory Kockott"
+        },
+        {
+            "temps": "52",
+            "pts": "E",
+            "joueur": "Marcel Garvey"
+        },
+        {
+            "temps": "57",
+            "pts": "E",
+            "joueur": "Marcel Garvey"
+        },
+        {
+            "temps": "60",
+            "pts": "T",
+            "joueur": "Daniel Kirkpatrick"
+        }
+    ],
+    "J2,FCG": [
+        {
+            "temps": "10",
+            "pts": "P",
+            "joueur": "James Hart"
+        },
+        {
+            "temps": "48",
+            "pts": "P",
+            "joueur": "James Hart"
+        }
+    ],
+    "J2,USAP": [
+        {
+            "temps": "6",
+            "pts": "E",
+            "joueur": "Sione Piukala"
+        },
+        {
+            "temps": "6",
+            "pts": "T",
+            "joueur": "James Hook"
+        },
+        {
+            "temps": "12",
+            "pts": "P",
+            "joueur": "James Hook"
+        },
+        {
+            "temps": "30",
+            "pts": "P",
+            "joueur": "James Hook"
+        },
+        {
+            "temps": "35",
+            "pts": "E",
+            "joueur": "Tommaso Benvenuti"
+        },
+        {
+            "temps": "36",
+            "pts": "T",
+            "joueur": "James Hook"
+        },
+        {
+            "temps": "65",
+            "pts": "E",
+            "joueur": "Sofiane Guitoune"
+        },
+        {
+            "temps": "66",
+            "pts": "T",
+            "joueur": "James Hook"
+        }
+    ],
+    "J2,SF": [
+        {
+            "temps": "4",
+            "pts": "D",
+            "joueur": "Jules Plisson"
+        },
+        {
+            "temps": "9",
+            "pts": "D",
+            "joueur": "Jules Plisson"
+        },
+        {
+            "temps": "26",
+            "pts": "P",
+            "joueur": "JÚr¶me Porical"
+        },
+        {
+            "temps": "32",
+            "pts": "E",
+            "joueur": "Alexandre Franquart"
+        },
+        {
+            "temps": "32",
+            "pts": "T",
+            "joueur": "JÚr¶me Porical"
+        },
+        {
+            "temps": "51",
+            "pts": "P",
+            "joueur": "JÚr¶me Porical"
+        },
+        {
+            "temps": "54",
+            "pts": "P",
+            "joueur": "JÚr¶me Porical"
+        },
+        {
+            "temps": "56",
+            "pts": "P",
+            "joueur": "JÚr¶me Porical"
+        },
+        {
+            "temps": "80",
+            "pts": "D",
+            "joueur": "Jules Plisson"
+        }
+    ],
+    "J2,ST": [
+        {
+            "temps": "16",
+            "pts": "P",
+            "joueur": "Luc McAlister"
+        },
+        {
+            "temps": "22",
+            "pts": "P",
+            "joueur": "Luc McAlister"
+        },
+        {
+            "temps": "38",
+            "pts": "P",
+            "joueur": "Luc McAlister"
+        },
+        {
+            "temps": "41",
+            "pts": "P",
+            "joueur": "Luc McAlister"
+        },
+        {
+            "temps": "43",
+            "pts": "E",
+            "joueur": "Christopher-Erci Tolofua"
+        },
+        {
+            "temps": "43",
+            "pts": "T",
+            "joueur": "Luc McAlister"
+        },
+        {
+            "temps": "47",
+            "pts": "E",
+            "joueur": "Maxime MÚdard"
+        },
+        {
+            "temps": "48",
+            "pts": "T",
+            "joueur": "Luc McAlister"
+        },
+        {
+            "temps": "55",
+            "pts": "E",
+            "joueur": "Census Johnston"
+        },
+        {
+            "temps": "56",
+            "pts": "T",
+            "joueur": "Luc McAlister"
+        },
+        {
+            "temps": "61",
+            "pts": "E",
+            "joueur": "Louis Picamoles"
+        },
+        {
+            "temps": "62",
+            "pts": "T",
+            "joueur": "Luc McAlister"
+        }
+    ],
+    "J2,AB": [
+        {
+            "temps": "39",
+            "pts": "P",
+            "joueur": "Martin Bustos Moyano"
+        }
+    ],
+    "J2,USO": [
+        {
+            "temps": "26",
+            "pts": "E",
+            "joueur": "Jody Daniel Jenneker"
+        },
+        {
+            "temps": "26",
+            "pts": "T",
+            "joueur": "Benajmin Urdapilleta"
+        },
+        {
+            "temps": "30",
+            "pts": "E",
+            "joueur": "Florian Denos"
+        },
+        {
+            "temps": "30",
+            "pts": "T",
+            "joueur": "Benajmin Urdapilleta"
+        },
+        {
+            "temps": "37",
+            "pts": "P",
+            "joueur": "Benajmin Urdapilleta"
+        },
+        {
+            "temps": "40",
+            "pts": "P",
+            "joueur": "Benajmin Urdapilleta"
+        },
+        {
+            "temps": "50",
+            "pts": "P",
+            "joueur": "Benajmin Urdapilleta"
+        },
+        {
+            "temps": "67",
+            "pts": "E",
+            "joueur": "Valentin Ursache"
+        },
+        {
+            "temps": "67",
+            "pts": "T",
+            "joueur": "Benajmin Urdapilleta"
+        }
+    ],
+    "J2,ASM": [
+        {
+            "temps": "44",
+            "pts": "E",
+            "joueur": "Gerhard Vosloo"
+        },
+        {
+            "temps": "47",
+            "pts": "P",
+            "joueur": "Brock James"
+        },
+        {
+            "temps": "54",
+            "pts": "P",
+            "joueur": "Brock James"
+        },
+        {
+            "temps": "56",
+            "pts": "P",
+            "joueur": "Brock James"
+        },
+        {
+            "temps": "79",
+            "pts": "E",
+            "joueur": "Benson Stanley"
+        }
+    ],
+    "J2,RCT": [
+        {
+            "temps": "8",
+            "pts": "E",
+            "joueur": "David Smith"
+        },
+        {
+            "temps": "9",
+            "pts": "T",
+            "joueur": "Jonny Wilkinson"
+        },
+        {
+            "temps": "30",
+            "pts": "D",
+            "joueur": "Jonny Wilkinson"
+        },
+        {
+            "temps": "42",
+            "pts": "P",
+            "joueur": "Jonny Wilkinson"
+        },
+        {
+            "temps": "47",
+            "pts": "E",
+            "joueur": "Sebastien Tillous-Borde"
+        },
+        {
+            "temps": "48",
+            "pts": "T",
+            "joueur": "Jonny Wilkinson"
+        },
+        {
+            "temps": "54",
+            "pts": "E",
+            "joueur": "Jocelino Suta"
+        },
+        {
+            "temps": "54",
+            "pts": "T",
+            "joueur": "Jonny Wilkinson"
+        },
+        {
+            "temps": "60",
+            "pts": "E",
+            "joueur": "Matt Giteau"
+        },
+        {
+            "temps": "61",
+            "pts": "T",
+            "joueur": "Jonny Wilkinson"
+        },
+        {
+            "temps": "64",
+            "pts": "E",
+            "joueur": "David Smith"
+        },
+        {
+            "temps": "65",
+            "pts": "T",
+            "joueur": "Jonny Wilkinson"
+        }
+    ],
+    "J2,RM92": [
+        {
+            "temps": "12",
+            "pts": "P",
+            "joueur": "Jonathan Sexton"
+        },
+        {
+            "temps": "27",
+            "pts": "P",
+            "joueur": "Jonathan Sexton"
+        },
+        {
+            "temps": "51",
+            "pts": "P",
+            "joueur": "Jonathan Sexton"
+        },
+        {
+            "temps": "81",
+            "pts": "E",
+            "joueur": "Virgile Lacombe"
+        }
+    ],
+    "J3,BOPB": [
+        {
+            "temps": "9",
+            "pts": "P",
+            "joueur": "Julien Peyrelongue"
+        }
+    ],
+    "J3,SF": [
+        {
+            "temps": "3",
+            "pts": "P",
+            "joueur": "Julien Dupuy"
+        },
+        {
+            "temps": "7",
+            "pts": "P",
+            "joueur": "Julien Dupuy"
+        },
+        {
+            "temps": "22",
+            "pts": "E",
+            "joueur": "Pierre Rabadan"
+        },
+        {
+            "temps": "23",
+            "pts": "T",
+            "joueur": "Julien Dupuy"
+        },
+        {
+            "temps": "33",
+            "pts": "D",
+            "joueur": "Jules Plisson"
+        },
+        {
+            "temps": "55",
+            "pts": "P",
+            "joueur": "JÚr¶me Fillol"
+        },
+        {
+            "temps": "58",
+            "pts": "E",
+            "joueur": "Julien Arias"
+        },
+        {
+            "temps": "63",
+            "pts": "E",
+            "joueur": "Jonathan Danty"
+        },
+        {
+            "temps": "64",
+            "pts": "T",
+            "joueur": "MornÚ Steyn"
+        },
+        {
+            "temps": "69",
+            "pts": "E",
+            "joueur": "Waisea Nayacalevu Vuidravuwalu"
+        },
+        {
+            "temps": "70",
+            "pts": "T",
+            "joueur": "MornÚ Steyn"
+        }
+    ],
+    "J3,FCG": [
+        {
+            "temps": "7",
+            "pts": "P",
+            "joueur": "Valentin Courrent"
+        },
+        {
+            "temps": "13",
+            "pts": "P",
+            "joueur": "Valentin Courrent"
+        },
+        {
+            "temps": "30",
+            "pts": "P",
+            "joueur": "Valentin Courrent"
+        },
+        {
+            "temps": "39",
+            "pts": "P",
+            "joueur": "Valentin Courrent"
+        },
+        {
+            "temps": "42",
+            "pts": "P",
+            "joueur": "Julien Caminati"
+        },
+        {
+            "temps": "50",
+            "pts": "P",
+            "joueur": "Julien Caminati"
+        },
+        {
+            "temps": "55",
+            "pts": "P",
+            "joueur": "Julien Caminati"
+        },
+        {
+            "temps": "66",
+            "pts": "E",
+            "joueur": "Roland Bernard"
+        },
+        {
+            "temps": "66",
+            "pts": "T",
+            "joueur": "Valentin Courrent"
+        }
+    ],
+    "J3,RCT": [
+        {
+            "temps": "10",
+            "pts": "P",
+            "joueur": "Jonny Wilkinson"
+        },
+        {
+            "temps": "12",
+            "pts": "P",
+            "joueur": "Jonny Wilkinson"
+        },
+        {
+            "temps": "17",
+            "pts": "P",
+            "joueur": "Jonny Wilkinson"
+        },
+        {
+            "temps": "33",
+            "pts": "P",
+            "joueur": "Jonny Wilkinson"
+        },
+        {
+            "temps": "44",
+            "pts": "P",
+            "joueur": "Jonny Wilkinson"
+        },
+        {
+            "temps": "60",
+            "pts": "P",
+            "joueur": "Jonny Wilkinson"
+        },
+        {
+            "temps": "69",
+            "pts": "P",
+            "joueur": "Jonny Wilkinson"
+        },
+        {
+            "temps": "86",
+            "pts": "E",
+            "joueur": "Matt Giteau"
+        }
+    ],
+    "J3,USAP": [
+        {
+            "temps": "1",
+            "pts": "D",
+            "joueur": "Camille Lopez"
+        },
+        {
+            "temps": "10",
+            "pts": "P",
+            "joueur": "Camille Lopez"
+        },
+        {
+            "temps": "20",
+            "pts": "P",
+            "joueur": "Camille Lopez"
+        },
+        {
+            "temps": "60",
+            "pts": "P",
+            "joueur": "Camille Lopez"
+        },
+        {
+            "temps": "65",
+            "pts": "P",
+            "joueur": "Camille Lopez"
+        },
+        {
+            "temps": "76",
+            "pts": "E",
+            "joueur": "Maxime Delonca"
+        }
+    ],
+    "J3,AB": [
+        {
+            "temps": "5",
+            "pts": "E",
+            "joueur": "Gabiriele Lovobalavu"
+        },
+        {
+            "temps": "6",
+            "pts": "T",
+            "joueur": "Martin Bustos Moyano"
+        },
+        {
+            "temps": "12",
+            "pts": "P",
+            "joueur": "Martin Bustos Moyano"
+        },
+        {
+            "temps": "16",
+            "pts": "P",
+            "joueur": "Martin Bustos Moyano"
+        },
+        {
+            "temps": "43",
+            "pts": "P",
+            "joueur": "Martin Bustos Moyano"
+        },
+        {
+            "temps": "46",
+            "pts": "P",
+            "joueur": "Martin Bustos Moyano"
+        },
+        {
+            "temps": "58",
+            "pts": "E",
+            "joueur": "Josevata Rokocoko"
+        },
+        {
+            "temps": "68",
+            "pts": "E",
+            "joueur": "Scott Spedding"
+        },
+        {
+            "temps": "69",
+            "pts": "T",
+            "joueur": "Martin Bustos Moyano"
+        }
+    ],
+    "J3,CO": [
+        {
+            "temps": "9",
+            "pts": "P",
+            "joueur": "Geoffrey Palis"
+        },
+        {
+            "temps": "23",
+            "pts": "P",
+            "joueur": "Geoffrey Palis"
+        },
+        {
+            "temps": "32",
+            "pts": "P",
+            "joueur": "Geoffrey Palis"
+        },
+        {
+            "temps": "43",
+            "pts": "P",
+            "joueur": "Geoffrey Palis"
+        },
+        {
+            "temps": "54",
+            "pts": "E",
+            "joueur": "Romain Martial"
+        },
+        {
+            "temps": "73",
+            "pts": "P",
+            "joueur": "Rory Kockott"
+        }
+    ],
+    "J3,UBB": [
+        {
+            "temps": "12",
+            "pts": "P",
+            "joueur": "Pierre Bernard"
+        },
+        {
+            "temps": "16",
+            "pts": "P",
+            "joueur": "Pierre Bernard"
+        },
+        {
+            "temps": "28",
+            "pts": "P",
+            "joueur": "Pierre Bernard"
+        },
+        {
+            "temps": "36",
+            "pts": "P",
+            "joueur": "Pierre Bernard"
+        },
+        {
+            "temps": "60",
+            "pts": "P",
+            "joueur": "Pierre Bernard"
+        },
+        {
+            "temps": "68",
+            "pts": "P",
+            "joueur": "Pierre Bernard"
+        },
+        {
+            "temps": "77",
+            "pts": "D",
+            "joueur": "Pierre Bernard"
+        }
+    ],
+    "J3,CABCL": [
+        {
+            "temps": "28",
+            "pts": "P",
+            "joueur": "Laurent Ferreres"
+        },
+        {
+            "temps": "65",
+            "pts": "E",
+            "joueur": "Laurent Ferreres"
+        },
+        {
+            "temps": "65",
+            "pts": "T",
+            "joueur": "GaÙtan Germain"
+        },
+        {
+            "temps": "73",
+            "pts": "E",
+            "joueur": "Karlen Asieshvili"
+        },
+        {
+            "temps": "73",
+            "pts": "T",
+            "joueur": "GaÙtan Germain"
+        },
+        {
+            "temps": "80",
+            "pts": "E",
+            "joueur": "GaÙtan Germain"
+        },
+        {
+            "temps": "80",
+            "pts": "T",
+            "joueur": "GaÙtan Germain"
+        }
+    ],
+    "J3,MHR": [
+        {
+            "temps": "10",
+            "pts": "D",
+            "joueur": "Franþois Trinh-Duc"
+        },
+        {
+            "temps": "22",
+            "pts": "P",
+            "joueur": "Benoit Paillaugue"
+        },
+        {
+            "temps": "31",
+            "pts": "P",
+            "joueur": "Benoit Paillaugue"
+        },
+        {
+            "temps": "35",
+            "pts": "P",
+            "joueur": "Benoit Paillaugue"
+        },
+        {
+            "temps": "51",
+            "pts": "E",
+            "joueur": "Timoci Nagusa"
+        },
+        {
+            "temps": "51",
+            "pts": "T",
+            "joueur": "Benoit Paillaugue"
+        },
+        {
+            "temps": "58",
+            "pts": "E",
+            "joueur": "EP"
+        },
+        {
+            "temps": "59",
+            "pts": "T",
+            "joueur": "Benoit Paillaugue"
+        },
+        {
+            "temps": "62",
+            "pts": "E",
+            "joueur": "Benoit Sicart"
+        },
+        {
+            "temps": "62",
+            "pts": "T",
+            "joueur": "Benoit Paillaugue"
+        }
+    ],
+    "J3,USO": [
+        {
+            "temps": "7",
+            "pts": "P",
+            "joueur": "Conrad Barnard"
+        },
+        {
+            "temps": "14",
+            "pts": "P",
+            "joueur": "Conrad Barnard"
+        },
+        {
+            "temps": "23",
+            "pts": "P",
+            "joueur": "Conrad Barnard"
+        }
+    ],
+    "J3,RM92": [
+        {
+            "temps": "16",
+            "pts": "P",
+            "joueur": "Jonathan Sexton"
+        },
+        {
+            "temps": "30",
+            "pts": "P",
+            "joueur": "Jonathan Sexton"
+        },
+        {
+            "temps": "48",
+            "pts": "P",
+            "joueur": "Jonathan Sexton"
+        },
+        {
+            "temps": "62",
+            "pts": "P",
+            "joueur": "Jonathan Sexton"
+        },
+        {
+            "temps": "64",
+            "pts": "P",
+            "joueur": "Jonathan Sexton"
+        },
+        {
+            "temps": "75",
+            "pts": "E",
+            "joueur": "Virgile Lacombe"
+        },
+        {
+            "temps": "77",
+            "pts": "T",
+            "joueur": "Jonathan Sexton"
+        }
+    ],
+    "J3,ST": [
+        {
+            "temps": "18",
+            "pts": "P",
+            "joueur": "Lionel Beauxis"
+        },
+        {
+            "temps": "31",
+            "pts": "E",
+            "joueur": "Maxime MÚdard"
+        },
+        {
+            "temps": "31",
+            "pts": "T",
+            "joueur": "Lionel Beauxis"
+        },
+        {
+            "temps": "41",
+            "pts": "P",
+            "joueur": "Lionel Beauxis"
+        },
+        {
+            "temps": "52",
+            "pts": "P",
+            "joueur": "Lionel Beauxis"
+        },
+        {
+            "temps": "54",
+            "pts": "P",
+            "joueur": "Lionel Beauxis"
+        }
+    ],
+    "J3,ASM": [
+        {
+            "temps": "16",
+            "pts": "P",
+            "joueur": "Brock James"
+        },
+        {
+            "temps": "35",
+            "pts": "P",
+            "joueur": "Brock James"
+        },
+        {
+            "temps": "39",
+            "pts": "E",
+            "joueur": "Julien Bardy"
+        },
+        {
+            "temps": "39",
+            "pts": "T",
+            "joueur": "Brock James"
+        },
+        {
+            "temps": "47",
+            "pts": "E",
+            "joueur": "Thomas Domingo"
+        },
+        {
+            "temps": "48",
+            "pts": "T",
+            "joueur": "Brock James"
+        },
+        {
+            "temps": "66",
+            "pts": "P",
+            "joueur": "Brock James"
+        },
+        {
+            "temps": "71",
+            "pts": "D",
+            "joueur": "Brock James"
+        },
+        {
+            "temps": "73",
+            "pts": "E",
+            "joueur": "Julien Bonnaire"
+        },
+        {
+            "temps": "77",
+            "pts": "E",
+            "joueur": "Wesley Fofana"
+        },
+        {
+            "temps": "79",
+            "pts": "T",
+            "joueur": "Brock James"
+        }
+    ],
+    "J4,UBB": [
+        {
+            "temps": "15",
+            "pts": "E",
+            "joueur": "Metuisela Talebula"
+        },
+        {
+            "temps": "16",
+            "pts": "T",
+            "joueur": "Pierre Bernard"
+        },
+        {
+            "temps": "22",
+            "pts": "P",
+            "joueur": "Pierre Bernard"
+        },
+        {
+            "temps": "28",
+            "pts": "P",
+            "joueur": "Pierre Bernard"
+        },
+        {
+            "temps": "34",
+            "pts": "P",
+            "joueur": "Pierre Bernard"
+        },
+        {
+            "temps": "46",
+            "pts": "E",
+            "joueur": "Blair Connor"
+        },
+        {
+            "temps": "60",
+            "pts": "P",
+            "joueur": "Pierre Bernard"
+        },
+        {
+            "temps": "79",
+            "pts": "E",
+            "joueur": "ClÚment Maynardier"
+        }
+    ],
+    "J4,MHR": [
+        {
+            "temps": "4",
+            "pts": "P",
+            "joueur": "Benoit Paillaugue"
+        },
+        {
+            "temps": "13",
+            "pts": "E",
+            "joueur": "Yoan Audrin"
+        },
+        {
+            "temps": "14",
+            "pts": "T",
+            "joueur": "Benoit Paillaugue"
+        },
+        {
+            "temps": "20",
+            "pts": "P",
+            "joueur": "Benoit Paillaugue"
+        },
+        {
+            "temps": "36",
+            "pts": "E",
+            "joueur": "Yoan Audrin"
+        },
+        {
+            "temps": "37",
+            "pts": "T",
+            "joueur": "Benoit Paillaugue"
+        },
+        {
+            "temps": "40",
+            "pts": "P",
+            "joueur": "Benoit Paillaugue"
+        },
+        {
+            "temps": "50",
+            "pts": "E",
+            "joueur": "Thomas Combezou"
+        },
+        {
+            "temps": "50",
+            "pts": "T",
+            "joueur": "Benoit Paillaugue"
+        },
+        {
+            "temps": "58",
+            "pts": "P",
+            "joueur": "Benoit Paillaugue"
+        },
+        {
+            "temps": "76",
+            "pts": "P",
+            "joueur": "Jonathan PelissiÚ"
+        }
+    ],
+    "J4,ASM": [
+        {
+            "temps": "3",
+            "pts": "P",
+            "joueur": "Brock James"
+        },
+        {
+            "temps": "5",
+            "pts": "E",
+            "joueur": "Gerhard Vosloo"
+        },
+        {
+            "temps": "6",
+            "pts": "T",
+            "joueur": "Brock James"
+        },
+        {
+            "temps": "11",
+            "pts": "E",
+            "joueur": "Sitiveni Sivivatue"
+        },
+        {
+            "temps": "12",
+            "pts": "T",
+            "joueur": "Brock James"
+        },
+        {
+            "temps": "24",
+            "pts": "E",
+            "joueur": "Noa Nakaitaci"
+        },
+        {
+            "temps": "26",
+            "pts": "T",
+            "joueur": "Brock James"
+        },
+        {
+            "temps": "30",
+            "pts": "P",
+            "joueur": "Brock James"
+        },
+        {
+            "temps": "33",
+            "pts": "E",
+            "joueur": "Noa Nakaitaci"
+        },
+        {
+            "temps": "35",
+            "pts": "T",
+            "joueur": "Brock James"
+        },
+        {
+            "temps": "46",
+            "pts": "E",
+            "joueur": "Gerhard Vosloo"
+        },
+        {
+            "temps": "47",
+            "pts": "T",
+            "joueur": "Brock James"
+        },
+        {
+            "temps": "50",
+            "pts": "E",
+            "joueur": "Gerhard Vosloo"
+        },
+        {
+            "temps": "51",
+            "pts": "T",
+            "joueur": "Thierry Lacrampe"
+        },
+        {
+            "temps": "63",
+            "pts": "E",
+            "joueur": "Sitiveni Sivivatue"
+        },
+        {
+            "temps": "64",
+            "pts": "T",
+            "joueur": "Thierry Lacrampe"
+        }
+    ],
+    "J4,AB": [
+        {
+            "temps": "0",
+            "pts": "N",
+            "joueur": "0"
+        }
+    ],
+    "J4,BOPB": [
+        {
+            "temps": "20",
+            "pts": "P",
+            "joueur": "Dimitri Yachvili"
+        },
+        {
+            "temps": "38",
+            "pts": "P",
+            "joueur": "Dimitri Yachvili"
+        },
+        {
+            "temps": "50",
+            "pts": "P",
+            "joueur": "Dimitri Yachvili"
+        },
+        {
+            "temps": "54",
+            "pts": "P",
+            "joueur": "Dimitri Yachvili"
+        },
+        {
+            "temps": "70",
+            "pts": "P",
+            "joueur": "Dimitri Yachvili"
+        },
+        {
+            "temps": "79",
+            "pts": "E",
+            "joueur": "Takudzwa Ngwenya"
+        },
+        {
+            "temps": "80",
+            "pts": "T",
+            "joueur": "Dimitri Yachvili"
+        }
+    ],
+    "J4,USO": [
+        {
+            "temps": "4",
+            "pts": "P",
+            "joueur": "Benjamin Urdapilleta"
+        },
+        {
+            "temps": "10",
+            "pts": "P",
+            "joueur": "Benjamin Urdapilleta"
+        },
+        {
+            "temps": "11",
+            "pts": "E",
+            "joueur": "SilvÞre Tian"
+        },
+        {
+            "temps": "13",
+            "pts": "T",
+            "joueur": "Benjamin Urdapilleta"
+        },
+        {
+            "temps": "23",
+            "pts": "E",
+            "joueur": "SilvÞre Tian"
+        },
+        {
+            "temps": "44",
+            "pts": "P",
+            "joueur": "Benjamin Urdapilleta"
+        },
+        {
+            "temps": "57",
+            "pts": "P",
+            "joueur": "Benjamin Urdapilleta"
+        }
+    ],
+    "J4,FCG": [
+        {
+            "temps": "38",
+            "pts": "E",
+            "joueur": "Florian Ninard"
+        },
+        {
+            "temps": "38",
+            "pts": "T",
+            "joueur": "Jordan Michallet"
+        },
+        {
+            "temps": "48",
+            "pts": "P",
+            "joueur": "Jordan Michallet"
+        },
+        {
+            "temps": "72",
+            "pts": "P",
+            "joueur": "Jordan Michallet"
+        }
+    ],
+    "J4,USAP": [
+        {
+            "temps": "7",
+            "pts": "E",
+            "joueur": "Lifeimi Mafi"
+        },
+        {
+            "temps": "8",
+            "pts": "T",
+            "joueur": "James Hook"
+        },
+        {
+            "temps": "15",
+            "pts": "E",
+            "joueur": "Dewald Duvenage"
+        },
+        {
+            "temps": "15",
+            "pts": "T",
+            "joueur": "James Hook"
+        },
+        {
+            "temps": "19",
+            "pts": "P",
+            "joueur": "James Hook"
+        },
+        {
+            "temps": "32",
+            "pts": "E",
+            "joueur": "Sofiane Guitoune"
+        },
+        {
+            "temps": "33",
+            "pts": "T",
+            "joueur": "James Hook"
+        },
+        {
+            "temps": "59",
+            "pts": "E",
+            "joueur": "Wandile Mjekevu"
+        },
+        {
+            "temps": "61",
+            "pts": "E",
+            "joueur": "Sofiane Guitoune"
+        },
+        {
+            "temps": "63",
+            "pts": "T",
+            "joueur": "James Hook"
+        }
+    ],
+    "J4,CABCL": [
+        {
+            "temps": "9",
+            "pts": "P",
+            "joueur": "Anderson Neisen"
+        },
+        {
+            "temps": "21",
+            "pts": "P",
+            "joueur": "Anderson Neisen"
+        },
+        {
+            "temps": "34",
+            "pts": "P",
+            "joueur": "Anderson Neisen"
+        },
+        {
+            "temps": "40",
+            "pts": "P",
+            "joueur": "Anderson Neisen"
+        }
+    ],
+    "J4,RCT": [
+        {
+            "temps": "10",
+            "pts": "E",
+            "joueur": "Mathieu Bastareaud"
+        },
+        {
+            "temps": "11",
+            "pts": "T",
+            "joueur": "Matt Giteau"
+        },
+        {
+            "temps": "16",
+            "pts": "E",
+            "joueur": "Rudi Wulf"
+        },
+        {
+            "temps": "36",
+            "pts": "P",
+            "joueur": "Matt Giteau"
+        },
+        {
+            "temps": "42",
+            "pts": "E",
+            "joueur": "Matt Giteau"
+        },
+        {
+            "temps": "46",
+            "pts": "E",
+            "joueur": "Danie Rossouw"
+        },
+        {
+            "temps": "47",
+            "pts": "T",
+            "joueur": "Matt Giteau"
+        },
+        {
+            "temps": "57",
+            "pts": "E",
+            "joueur": "Maxime Mermoz"
+        },
+        {
+            "temps": "59",
+            "pts": "T",
+            "joueur": "Matt Giteau"
+        },
+        {
+            "temps": "64",
+            "pts": "E",
+            "joueur": "EP"
+        },
+        {
+            "temps": "64",
+            "pts": "T",
+            "joueur": "Matt Giteau"
+        },
+        {
+            "temps": "69",
+            "pts": "E",
+            "joueur": "SÚbastien Tillous-Borde"
+        },
+        {
+            "temps": "69",
+            "pts": "T",
+            "joueur": "Matt Giteau"
+        },
+        {
+            "temps": "77",
+            "pts": "E",
+            "joueur": "Matt Giteau"
+        },
+        {
+            "temps": "78",
+            "pts": "T",
+            "joueur": "Matt Giteau"
+        },
+        {
+            "temps": "82",
+            "pts": "E",
+            "joueur": "Alexis Palisson"
+        },
+        {
+            "temps": "83",
+            "pts": "T",
+            "joueur": "Matt Giteau"
+        }
+    ],
+    "J4,SF": [
+        {
+            "temps": "35",
+            "pts": "P",
+            "joueur": "JÚr¶me Porical"
+        },
+        {
+            "temps": "46",
+            "pts": "E",
+            "joueur": "Scott Lavalla"
+        },
+        {
+            "temps": "47",
+            "pts": "T",
+            "joueur": "JÚr¶me Porical"
+        }
+    ],
+    "J4,CO": [
+        {
+            "temps": "16",
+            "pts": "E",
+            "joueur": "Rodrigo Capo Ortega"
+        },
+        {
+            "temps": "17",
+            "pts": "T",
+            "joueur": "Geoffrey Palis"
+        },
+        {
+            "temps": "25",
+            "pts": "E",
+            "joueur": "RÚmi Lamerat"
+        },
+        {
+            "temps": "59",
+            "pts": "E",
+            "joueur": "Brice Mach"
+        },
+        {
+            "temps": "60",
+            "pts": "T",
+            "joueur": "Rory Kockott"
+        },
+        {
+            "temps": "65",
+            "pts": "E",
+            "joueur": "RÚmi Lamerat"
+        },
+        {
+            "temps": "66",
+            "pts": "T",
+            "joueur": "Rory Kockott"
+        },
+        {
+            "temps": "71",
+            "pts": "E",
+            "joueur": "RÚmy Grosso"
+        },
+        {
+            "temps": "74",
+            "pts": "E",
+            "joueur": "Marcel Garvey"
+        },
+        {
+            "temps": "75",
+            "pts": "T",
+            "joueur": "Rory Kockott"
+        }
+    ],
+    "J4,ST": [
+        {
+            "temps": "2",
+            "pts": "P",
+            "joueur": "Luke McAlister"
+        },
+        {
+            "temps": "7",
+            "pts": "E",
+            "joueur": "GaÙl Fickou"
+        },
+        {
+            "temps": "8",
+            "pts": "T",
+            "joueur": "Luke McAlister"
+        },
+        {
+            "temps": "22",
+            "pts": "P",
+            "joueur": "Luke McAlister"
+        },
+        {
+            "temps": "33",
+            "pts": "P",
+            "joueur": "Luke McAlister"
+        },
+        {
+            "temps": "53",
+            "pts": "E",
+            "joueur": "Yannick Nyanga"
+        },
+        {
+            "temps": "54",
+            "pts": "T",
+            "joueur": "Luke McAlister"
+        },
+        {
+            "temps": "75",
+            "pts": "E",
+            "joueur": "Joe Tekori"
+        },
+        {
+            "temps": "75",
+            "pts": "T",
+            "joueur": "Luke McAlister"
+        }
+    ],
+    "J4,RM92": [
+        {
+            "temps": "18",
+            "pts": "P",
+            "joueur": "Jonathan Wisniewski"
+        },
+        {
+            "temps": "46",
+            "pts": "P",
+            "joueur": "Jonathan Wisniewski"
+        }
+    ],
+    "J5,RCT": [
+        {
+            "temps": "2",
+            "pts": "P",
+            "joueur": "Jonny Wilkinson"
+        },
+        {
+            "temps": "10",
+            "pts": "P",
+            "joueur": "Jonny Wilkinson"
+        },
+        {
+            "temps": "54",
+            "pts": "P",
+            "joueur": "Matt Giteau"
+        },
+        {
+            "temps": "57",
+            "pts": "E",
+            "joueur": "Maxime Mermoz"
+        },
+        {
+            "temps": "76",
+            "pts": "E",
+            "joueur": "Matt Giteau"
+        },
+        {
+            "temps": "77",
+            "pts": "T",
+            "joueur": "Matt Giteau"
+        },
+        {
+            "temps": "79",
+            "pts": "P",
+            "joueur": "Matt Giteau"
+        }
+    ],
+    "J5,BOPB": [
+        {
+            "temps": "39",
+            "pts": "P",
+            "joueur": "Dimitri Yachvili"
+        },
+        {
+            "temps": "45",
+            "pts": "P",
+            "joueur": "Dimitri Yachvili"
+        },
+        {
+            "temps": "68",
+            "pts": "E",
+            "joueur": "Ueleni Fuono"
+        },
+        {
+            "temps": "69",
+            "pts": "T",
+            "joueur": "Dimitri Yachvili"
+        }
+    ],
+    "J5,AB": [
+        {
+            "temps": "53",
+            "pts": "P",
+            "joueur": "Martin Bustos Moyano"
+        },
+        {
+            "temps": "77",
+            "pts": "E",
+            "joueur": "Gert Muller"
+        },
+        {
+            "temps": "78",
+            "pts": "T",
+            "joueur": "Martin Bustos Moyano"
+        }
+    ],
+    "J5,CABCL": [
+        {
+            "temps": "43",
+            "pts": "E",
+            "joueur": "Guillaume Namy"
+        },
+        {
+            "temps": "44",
+            "pts": "T",
+            "joueur": "GaÙtan Germain"
+        },
+        {
+            "temps": "55",
+            "pts": "E",
+            "joueur": "Riaan Swanepoel"
+        },
+        {
+            "temps": "56",
+            "pts": "T",
+            "joueur": "GaÙtan Germain"
+        },
+        {
+            "temps": "70",
+            "pts": "D",
+            "joueur": "Romain Sola"
+        }
+    ],
+    "J5,UBB": [
+        {
+            "temps": "20",
+            "pts": "P",
+            "joueur": "Emmanuel Saubbusse"
+        },
+        {
+            "temps": "30",
+            "pts": "P",
+            "joueur": "Emmanuel Saubbusse"
+        },
+        {
+            "temps": "44",
+            "pts": "E",
+            "joueur": "Charles Brousse"
+        },
+        {
+            "temps": "80",
+            "pts": "P",
+            "joueur": "Emmanuel Saubbusse"
+        }
+    ],
+    "J5,FCG": [
+        {
+            "temps": "10",
+            "pts": "P",
+            "joueur": "Valentin Courrent"
+        },
+        {
+            "temps": "17",
+            "pts": "P",
+            "joueur": "Valentin Courrent"
+        },
+        {
+            "temps": "28",
+            "pts": "P",
+            "joueur": "Valentin Courrent"
+        },
+        {
+            "temps": "52",
+            "pts": "P",
+            "joueur": "Valentin Courrent"
+        },
+        {
+            "temps": "57",
+            "pts": "P",
+            "joueur": "Valentin Courrent"
+        },
+        {
+            "temps": "68",
+            "pts": "P",
+            "joueur": "Julien Caminati"
+        },
+        {
+            "temps": "78",
+            "pts": "P",
+            "joueur": "Valentin Courrent"
+        }
+    ],
+    "J5,CO": [
+        {
+            "temps": "12",
+            "pts": "P",
+            "joueur": "Rory Kockott"
+        },
+        {
+            "temps": "61",
+            "pts": "P",
+            "joueur": "Rory Kockott"
+        },
+        {
+            "temps": "65",
+            "pts": "P",
+            "joueur": "Rory Kockott"
+        }
+    ],
+    "J5,USO": [
+        {
+            "temps": "6",
+            "pts": "P",
+            "joueur": "Benjamin Urdapilleta"
+        },
+        {
+            "temps": "38",
+            "pts": "P",
+            "joueur": "Benjamin Urdapilleta"
+        },
+        {
+            "temps": "49",
+            "pts": "P",
+            "joueur": "Benjamin Urdapilleta"
+        },
+        {
+            "temps": "54",
+            "pts": "P",
+            "joueur": "Benjamin Urdapilleta"
+        },
+        {
+            "temps": "75",
+            "pts": "E",
+            "joueur": "SilvÞre Tian"
+        },
+        {
+            "temps": "75",
+            "pts": "T",
+            "joueur": "Benjamin Urdapilleta"
+        }
+    ],
+    "J5,USAP": [
+        {
+            "temps": "4",
+            "pts": "P",
+            "joueur": "Tommy Allan"
+        },
+        {
+            "temps": "26",
+            "pts": "P",
+            "joueur": "Tommy Allan"
+        },
+        {
+            "temps": "55",
+            "pts": "E",
+            "joueur": "EP"
+        },
+        {
+            "temps": "55",
+            "pts": "T",
+            "joueur": "Tommy Allan"
+        },
+        {
+            "temps": "68",
+            "pts": "P",
+            "joueur": "Tommy Allan"
+        }
+    ],
+    "J5,RM92": [
+        {
+            "temps": "8",
+            "pts": "P",
+            "joueur": "Jonathan Sexton"
+        },
+        {
+            "temps": "23",
+            "pts": "P",
+            "joueur": "Jonathan Sexton"
+        },
+        {
+            "temps": "43",
+            "pts": "P",
+            "joueur": "Jonathan Sexton"
+        },
+        {
+            "temps": "51",
+            "pts": "E",
+            "joueur": "Benjamin Fall"
+        },
+        {
+            "temps": "52",
+            "pts": "T",
+            "joueur": "Jonathan Sexton"
+        },
+        {
+            "temps": "61",
+            "pts": "P",
+            "joueur": "Jonathan Sexton"
+        }
+    ],
+    "J5,ST": [
+        {
+            "temps": "0",
+            "pts": "N",
+            "joueur": "0"
+        }
+    ],
+    "J5,MHR": [
+        {
+            "temps": "30",
+            "pts": "E",
+            "joueur": "Jonathan PelissiÚ"
+        },
+        {
+            "temps": "31",
+            "pts": "T",
+            "joueur": "Jonathan PelissiÚ"
+        },
+        {
+            "temps": "40",
+            "pts": "P",
+            "joueur": "Jonathan PelissiÚ"
+        },
+        {
+            "temps": "51",
+            "pts": "P",
+            "joueur": "Anthony Floch"
+        },
+        {
+            "temps": "57",
+            "pts": "E",
+            "joueur": "Franþois Trinh-Duc"
+        },
+        {
+            "temps": "70",
+            "pts": "E",
+            "joueur": "Benoit Sicart"
+        },
+        {
+            "temps": "70",
+            "pts": "T",
+            "joueur": "Benoit Paillaugue"
+        }
+    ],
+    "J5,ASM": [
+        {
+            "temps": "23",
+            "pts": "P",
+            "joueur": "Brock James"
+        },
+        {
+            "temps": "40",
+            "pts": "P",
+            "joueur": "Brock James"
+        },
+        {
+            "temps": "68",
+            "pts": "E",
+            "joueur": "Julien Pierre"
+        },
+        {
+            "temps": "68",
+            "pts": "T",
+            "joueur": "Brock James"
+        },
+        {
+            "temps": "77",
+            "pts": "P",
+            "joueur": "Brock James"
+        }
+    ],
+    "J5,SF": [
+        {
+            "temps": "13",
+            "pts": "P",
+            "joueur": "JÚr¶me Fillol"
+        },
+        {
+            "temps": "50",
+            "pts": "P",
+            "joueur": "JÚr¶me Fillol"
+        },
+        {
+            "temps": "59",
+            "pts": "E",
+            "joueur": "Hugo Bonneval"
+        },
+        {
+            "temps": "60",
+            "pts": "T",
+            "joueur": "Julien Dupuy"
+        },
+        {
+            "temps": "63",
+            "pts": "P",
+            "joueur": "Julien Dupuy"
+        },
+        {
+            "temps": "73",
+            "pts": "E",
+            "joueur": "Julien Arias"
+        },
+        {
+            "temps": "74",
+            "pts": "T",
+            "joueur": "Julien Dupuy"
+        }
+    ],
+    "key": [],
+    "J6,MHR": [
+        {
+            "temps": "14",
+            "pts": "P",
+            "joueur": "Benoit Paillaugue"
+        },
+        {
+            "temps": "30",
+            "pts": "P",
+            "joueur": "Benoit Paillaugue"
+        },
+        {
+            "temps": "58",
+            "pts": "P",
+            "joueur": "Benoit Paillaugue"
+        },
+        {
+            "temps": "74",
+            "pts": "E",
+            "joueur": "Timoci Nagusa"
+        },
+        {
+            "temps": "75",
+            "pts": "T",
+            "joueur": "Jonathan Pelissié"
+        }
+    ],
+    "J6,USAP": [
+        {
+            "temps": "4",
+            "pts": "P",
+            "joueur": "James Hook"
+        },
+        {
+            "temps": "8",
+            "pts": "E",
+            "joueur": "Dewald Duvenage"
+        },
+        {
+            "temps": "10",
+            "pts": "E",
+            "joueur": "Justin Puril"
+        },
+        {
+            "temps": "11",
+            "pts": "T",
+            "joueur": "James Hook"
+        },
+        {
+            "temps": "20",
+            "pts": "E",
+            "joueur": "Sofiane Guitoune"
+        },
+        {
+            "temps": "64",
+            "pts": "E",
+            "joueur": "Romain Taofifenua"
+        },
+        {
+            "temps": "69",
+            "pts": "P",
+            "joueur": "James Hook"
+        }
+    ],
+    "J6,CO": [
+        {
+            "temps": "10",
+            "pts": "P",
+            "joueur": "Rory Kockott"
+        },
+        {
+            "temps": "31",
+            "pts": "D",
+            "joueur": "Rory Kockott"
+        },
+        {
+            "temps": "38",
+            "pts": "E",
+            "joueur": "Brice Mach"
+        },
+        {
+            "temps": "38",
+            "pts": "T",
+            "joueur": "Rory Kockott"
+        },
+        {
+            "temps": "59",
+            "pts": "P",
+            "joueur": "Rory Kockott"
+        },
+        {
+            "temps": "69",
+            "pts": "P",
+            "joueur": "Rory Kockott"
+        },
+        {
+            "temps": "74",
+            "pts": "P",
+            "joueur": "Rory Kockott"
+        }
+    ],
+    "J6,RCT": [
+        {
+            "temps": "4",
+            "pts": "P",
+            "joueur": "Jonny Wilkinson"
+        },
+        {
+            "temps": "6",
+            "pts": "P",
+            "joueur": "Jonny Wilkinson"
+        },
+        {
+            "temps": "34",
+            "pts": "P",
+            "joueur": "Jonny Wilkinson"
+        },
+        {
+            "temps": "54",
+            "pts": "P",
+            "joueur": "Juan Smith"
+        },
+        {
+            "temps": "59",
+            "pts": "D",
+            "joueur": "Jonny Wilkinson"
+        }
+    ],
+    "J6,UBB": [
+        {
+            "temps": "5",
+            "pts": "E",
+            "joueur": "Blair Connor"
+        },
+        {
+            "temps": "5",
+            "pts": "T",
+            "joueur": "Pierre Bernard"
+        },
+        {
+            "temps": "12",
+            "pts": "E",
+            "joueur": "Matuisela talebula"
+        },
+        {
+            "temps": "12",
+            "pts": "T",
+            "joueur": "Pierre Bernard"
+        },
+        {
+            "temps": "31",
+            "pts": "E",
+            "joueur": "Julien Rey"
+        },
+        {
+            "temps": "32",
+            "pts": "T",
+            "joueur": "Pierre Bernard"
+        },
+        {
+            "temps": "56",
+            "pts": "E",
+            "joueur": "Blair Connor"
+        },
+        {
+            "temps": "57",
+            "pts": "T",
+            "joueur": "Pierre Bernard"
+        },
+        {
+            "temps": "69",
+            "pts": "E",
+            "joueur": "Louis-Benoit Madaule"
+        },
+        {
+            "temps": "69",
+            "pts": "T",
+            "joueur": "Pierre Bernard"
+        }
+    ],
+    "J6,USO": [
+        {
+            "temps": "14",
+            "pts": "E",
+            "joueur": "Miroslav Nemecek"
+        },
+        {
+            "temps": "14",
+            "pts": "T",
+            "joueur": "Conrad Barnard"
+        },
+        {
+            "temps": "48",
+            "pts": "P",
+            "joueur": "Conrad Barnard"
+        }
+    ],
+    "J6,ASM": [
+        {
+            "temps": "10",
+            "pts": "P",
+            "joueur": "Morgan Parra"
+        },
+        {
+            "temps": "27",
+            "pts": "E",
+            "joueur": "EP"
+        },
+        {
+            "temps": "27",
+            "pts": "T",
+            "joueur": "Morgan Parra"
+        },
+        {
+            "temps": "28",
+            "pts": "P",
+            "joueur": "Morgan Parra"
+        },
+        {
+            "temps": "43",
+            "pts": "E",
+            "joueur": "Damien Chouly"
+        },
+        {
+            "temps": "43",
+            "pts": "T",
+            "joueur": "Morgan Parra"
+        },
+        {
+            "temps": "58",
+            "pts": "E",
+            "joueur": "Damien Chouly"
+        },
+        {
+            "temps": "59",
+            "pts": "T",
+            "joueur": "Morgan Parra"
+        }
+    ],
+    "J6,FCG": [
+        {
+            "temps": "39",
+            "pts": "P",
+            "joueur": "Julien Caminaty"
+        },
+        {
+            "temps": "42",
+            "pts": "P",
+            "joueur": "Julien Caminaty"
+        },
+        {
+            "temps": "80",
+            "pts": "E",
+            "joueur": "Kevin Goze"
+        },
+        {
+            "temps": "81",
+            "pts": "T",
+            "joueur": "Julien Caminaty"
+        }
+    ],
+    "J6,SF": [
+        {
+            "temps": "8",
+            "pts": "P",
+            "joueur": "Jérôme Porical"
+        },
+        {
+            "temps": "14",
+            "pts": "P",
+            "joueur": "Jérôme Porical"
+        },
+        {
+            "temps": "31",
+            "pts": "P",
+            "joueur": "Jérôme Porical"
+        },
+        {
+            "temps": "33",
+            "pts": "P",
+            "joueur": "Jérôme Porical"
+        },
+        {
+            "temps": "48",
+            "pts": "P",
+            "joueur": "Jérôme Porical"
+        },
+        {
+            "temps": "51",
+            "pts": "P",
+            "joueur": "Jérôme Porical"
+        },
+        {
+            "temps": "58",
+            "pts": "E",
+            "joueur": "Meyer Bosman"
+        },
+        {
+            "temps": "58",
+            "pts": "T",
+            "joueur": "Jérôme Porical"
+        }
+    ],
+    "J6,CABCL": [
+        {
+            "temps": "9",
+            "pts": "E",
+            "joueur": "Venioni Voretamaya"
+        },
+        {
+            "temps": "42",
+            "pts": "P",
+            "joueur": "Gaëtan Germain"
+        },
+        {
+            "temps": "43",
+            "pts": "P",
+            "joueur": "Gaëtan Germain"
+        },
+        {
+            "temps": "69",
+            "pts": "E",
+            "joueur": "Guillaume Ribes"
+        },
+        {
+            "temps": "70",
+            "pts": "T",
+            "joueur": "Thomas Laranjeira"
+        }
+    ],
+    "J6,ST": [
+        {
+            "temps": "13",
+            "pts": "E",
+            "joueur": "Hosea Gear"
+        },
+        {
+            "temps": "13",
+            "pts": "T",
+            "joueur": "Lionel Beauxis"
+        },
+        {
+            "temps": "21",
+            "pts": "E",
+            "joueur": "Grégory Lamboley"
+        },
+        {
+            "temps": "21",
+            "pts": "T",
+            "joueur": "Lionel Beauxis"
+        },
+        {
+            "temps": "28",
+            "pts": "E",
+            "joueur": "Census Johnston"
+        },
+        {
+            "temps": "29",
+            "pts": "T",
+            "joueur": "Lionel Beauxis"
+        },
+        {
+            "temps": "36",
+            "pts": "E",
+            "joueur": "Christopher Tolofua"
+        },
+        {
+            "temps": "72",
+            "pts": "E",
+            "joueur": "Gaël Fickou"
+        }
+    ],
+    "J6,BOPB": [
+        {
+            "temps": "65",
+            "pts": "E",
+            "joueur": "Aled Brew"
+        },
+        {
+            "temps": "67",
+            "pts": "T",
+            "joueur": "Julien Peyrelongue"
+        }
+    ],
+    "J6,AB": [
+        {
+            "temps": "34",
+            "pts": "P",
+            "joueur": "Martin Bustos Moyano"
+        },
+        {
+            "temps": "42",
+            "pts": "P",
+            "joueur": "Martin Bustos Moyano"
+        },
+        {
+            "temps": "48",
+            "pts": "P",
+            "joueur": "Martin Bustos Moyano"
+        },
+        {
+            "temps": "53",
+            "pts": "E",
+            "joueur": "Lisiate Fa'aoso"
+        },
+        {
+            "temps": "56",
+            "pts": "T",
+            "joueur": "Martin Bustos Moyano"
+        }
+    ],
+    "J6,RM92": [
+        {
+            "temps": "19",
+            "pts": "P",
+            "joueur": "Jonathan Sexton"
+        },
+        {
+            "temps": "38",
+            "pts": "P",
+            "joueur": "Adrien Planté"
+        },
+        {
+            "temps": "49",
+            "pts": "P",
+            "joueur": "Jonathan Sexton"
+        },
+        {
+            "temps": "56",
+            "pts": "P",
+            "joueur": "Jonathan Sexton"
+        },
+        {
+            "temps": "62",
+            "pts": "E",
+            "joueur": "Camille Gérondeau"
+        },
+        {
+            "temps": "63",
+            "pts": "T",
+            "joueur": "Jonathan Sexton"
+        }
+    ]
+}

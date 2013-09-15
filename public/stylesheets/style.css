@@ -1,0 +1,16 @@
+
+a {
+  color: #00B7FF;
+}
+
+table .sortable{ margin: 1em; border: 1px; border-collapse: collapse; }
+table.sortable td, th { padding: .2em; border: 1px #ccc solid; }
+
+
+/* Sortable tables */
+table.sortable thead {
+    background-color:#fc9;;
+    color:#666666;
+    font-weight: bold;
+    cursor: default;
+}

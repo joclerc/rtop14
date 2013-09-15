@@ -1,0 +1,38 @@
+<% include layout %>
+<body>
+<div id="logo"><h1>Championnat TOP14 - 2013/2014</h1>
+
+<div id="page" class="container">
+<p></p>
+<center><table class="sortable" border="1">
+<tr><th>Team</th><th>Pts</th><th>bo</th><th>bd</th><th>J</th><th>P</th><th>C</th>
+	<th>G</th><th>N</th><th>P</th>
+	<th>Es</th><th>Dr</th><th>Tr</th><th>Pe</th><th>Dif</th>
+</tr>
+<% for(var i=0; i<listeres.length; i++) {%>
+	<% var res=dicores[listeres[i]]%>
+	<tr><td><%=res.team %></td>
+		<td><%=res.pts %></td>
+		<td><%=res.bo %></td>
+		<td><%=res.bd %></td>
+		<td><%=res.nbMatch %></td>
+		<td><%=res.pour %></td>
+		<td><%=res.contre %></td>
+		<td><%=res.gagne %></td>
+		<td><%=res.neutre %></td>
+		<td><%=res.perd %></td>
+		<td><%=res.nbEssai %></td>
+		<td><%=res.nbDrop %></td>
+		<td><%=res.nbTransf %></td>
+		<td><%=res.nbPenalite %></td>
+		<td><%=res.dif %></td>
+		</tr>
+<% } %>	
+</table></center>
+liste: <%=listeres.length%>
+</div>
+<hr>
+<a href='/' style="color: #00B7FF">Retour</a>
+
+</div>
+<%include bottom%>

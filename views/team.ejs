@@ -1,0 +1,23 @@
+<% include layout %>
+<body>
+<div id="logo"><h1>liste des teams</h1>
+
+<div id="page" class="container">
+<center><table border='1' class="sortable">
+<tr><th>Action</th><th>Code</th><th>Nom</th><th>Lieu</th></tr>
+
+	<% for(var i=0; i<teams.length; i++) {%>
+		<tr>
+		<td><a href='/team/sup/<%=i%>'  style="color: #00B7FF"> sup </a> - <a href='/team/mod/<%=i%>'  style="color: #00B7FF"> mod </a></td>
+		<td><%= teams[i].code %></td>
+		<td><%= teams[i].nom %></td>
+		<td><%= teams[i].lieu %></td>
+		</tr>
+	<% } %>
+
+</table></center>
+</div>
+<hr><a href='/'>Retour</a>
+ - <a href='/newteam'>Nouveau Team</a>
+ </div>
+<% include bottom %>

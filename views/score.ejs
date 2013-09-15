@@ -1,0 +1,36 @@
+<% include layout %>
+<body>
+<div id="logo"><h1>Score d'un team lors d'un match</h1>
+
+<div id="page" class="container">
+<form action='/ajoutscore' method='post'>
+<div><label>Journee       : <%=jour%></label><br/></div>
+<div><input type='hidden' name='jour' value='<%=jour%>'/></div>
+<div><label>Equipe        : <%=equipe%></label><br/></div>
+<div><input type='hidden' name='equipe' value='<%=equipe%>'/></div>
+<div><label>temps         : </label><input type='text' name='temps' /><br/></div>
+<!-- <div><label>type de points: </label><input type='text' name='pts' /><br/></div> -->
+<div><label>type de points: </label><select id="pts" name="pts">
+	<option id="N" value="N">N</option>
+	<option id="D" value="D">D</option>
+	<option id="E" value="E">E</option>
+	<option id="P" value="P">P</option>
+	<option id="T" value="T">T</option>
+</select></br></div>
+<div><label>joueur        : </label><input type='text' name='joueur' /><br/></div>
+<div><input type='submit' value='Ajouter'/></div>
+</form>
+<hr>
+<table border="1">
+<tr><th>jour</th><th>equipe</th><th>temps</th><th>pts</th><th>joueur</th></tr>
+<% for(var i=0; i<liste.length; i++) {%>
+	<%var item = liste[i]%>
+	<tr><td><%=jour%></td><td><%=equipe%></td>
+	<td><%=item.temps%></td><td><%=item.pts%></td><td><%=item.joueur%></td></tr>
+<% } %>
+</table>
+liste: <%=liste.length%>
+</div>
+<hr><a href='/journee/refresh/<%=jour%>'>Retour</a>
+</div>
+<%include bottom %>

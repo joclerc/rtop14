@@ -1,0 +1,71 @@
+<%include layout %>
+<body>
+<div id="logo"><h1>liste des journees de matchs</h1>
+<script type="text/javascript">
+
+function chgDay() {
+	var jour = document.getElementById("jours");
+	var texte=jour.options[jour.selectedIndex].id;
+	refreshListe(texte)
+	//alert(texte);
+	//document.newday.action = jour.options[jour.selectedIndex].id;
+}
+</script>
+
+<script type="text/javascript">
+function chgLocal() {
+	var jour = document.getElementById("local");
+	var texte=jour.options[jour.selectedIndex].id;
+	//alert(texte);
+	//document.newday.action += "local="+texte;
+}
+</script>
+
+<div id="page" class="container">
+<form action='/newday' method='post'>
+<p><select onchange="chgDay(options)" id="jours" name='jours'>
+	<% var liste = lesdates["key"]%>
+	<% for(var i=0;i<liste.length;i++) {%>
+		<option id="<%= liste[i] %>", value="<%= liste[i] %>" 
+			<% if (day==liste[i]) {%> selected="selected" <% } %>
+		><%= lesdates[liste[i]][1] %></option>
+	<% } %>
+</select></p>
+
+<script type="text/javascript">
+function refreshListe(jour) {
+	//alert(jour);
+	window.location.href="/journee/refresh/"+jour;
+}
+</script>
+	
+<table border="1">
+<tr><th>Local</th><th>sc</th><th>-</th><th>sc</th><th>Visiteur</th></tr>
+	<% var lesjours = jours[day] %>
+	<% if (typeof(lesjours)=="undefined") lesjours=[]; %>
+	<% for(var i=0;i<lesjours.length;i++) {%>
+	<tr><td><a href="/score/<%=day %>/<%=lesjours[i][0] %>" style="color: #00B7FF"><%=lesjours[i][0] %></a></td>
+	<td><%=resultats.getPts(lesjours[i][0]) %></td><td>-</td><td><%=resultats.getPts(lesjours[i][1]) %></td><td>
+	<a href="/score/<%=day %>/<%=lesjours[i][1] %>"style="color: #00B7FF"><%=lesjours[i][1] %></a></td></tr>
+	<% } %>
+</table>
+
+<hr>
+<p>Local: <select onchage="chgLocal(options)" id="local" name="local">	
+	<option id="T0"></option>
+	<% for(var i=0;i<teams.length;i++) {%>
+	<option id='<%=teams[i].code%>' value='<%=teams[i].code%>'><%=teams[i].nom%></option>
+	<% } %>
+</select> - VS - 
+ Visiteur: <select id="visit" name="visit">
+	<option id="T0"></option>
+	<% for(var i=0;i<teams.length;i++) {%>
+	<option id='<%=teams[i].code%>' value='<%=teams[i].code%>'><%=teams[i].nom%></option>
+	<% } %>
+</select> 
+<input type='submit' value='Ajouter'/>
+</form></p>
+</div>
+<hr><a href='/'>Retour</a>
+ </div>
+<% include bottom %>
